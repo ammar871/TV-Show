@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#141A31</color>
+    <color name="purple_500">#081029</color>
+    <color name="purple_700">#0097FB</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colortexticon">#FFFFFFFF</color>
+    <color name="colorprmerylaight">#1E2746</color>
+    <color name="colortextprmery">#CBD5ED</color>
+    <color name="colortextsecondray">#4A5BB2</color>
+    <color name="colortextother">#FAD303</color>
+    <color name="colorthemeextra">#FF5252</color>
+
+</resources>

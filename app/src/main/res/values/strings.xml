@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TV Show</string>
+    <string name="read_more">Read More..</string>
+    <string name="read_less">Read less..</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watching_list">Watching List</string>
+    <string name="search_tv_show">Search Tv Show</string>
+</resources>
